@@ -1,4 +1,5 @@
 # Curriculo
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="pt-BR">
 
@@ -159,3 +160,6 @@
 
 </html>
 
+=======
+Meu curriculo
+>>>>>>> 9ef0f2bc1c2490f2ef0a1cfb10c6d33173158ce2
